@@ -14,3 +14,4 @@
 
 Introduction ([slides](https://docs.google.com/presentation/d/1hbG7EUQ0KdCc2BKVBgNd0WCODNrkbPUEcCkDExMjSvo/edit?usp=sharing), [ipynb](https://github.com/m12sl/dl-hse-2020/blob/master/01-introduction/numpy%20neural%20networks%20from%20scratch.ipynb))
 
+Mechanics [ipynb](https://github.com/m12sl/dl-hse-2020/blob/master/02-mechanics/pytorch%20train%20loop.ipynb)
