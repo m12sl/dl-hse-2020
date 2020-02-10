@@ -17,4 +17,7 @@ Introduction ([slides](https://docs.google.com/presentation/d/1hbG7EUQ0KdCc2BKVB
 Mechanics [ipynb](https://github.com/m12sl/dl-hse-2020/blob/master/02-mechanics/pytorch%20train%20loop.ipynb)
 
 
-Common Things [ipynb](https://github.com/m12sl/dl-hse-2020/blob/master/03-common-things/vanishing%20gradients%20and%20cnn.ipynb)
+Common Things ([slides](https://docs.google.com/presentation/d/1Pn_yQ_4LGRooyIMb7-BcAcU9K7h7c9smhGUaSF-bNPY/edit?usp=sharing), [ipynb](https://github.com/m12sl/dl-hse-2020/blob/master/03-common-things/vanishing%20gradients%20and%20cnn.ipynb))
+
+
+Hyperparams ([ipynb](https://github.com/m12sl/dl-hse-2020/blob/master/04-hyperparams/optimization.ipynb))
