@@ -20,4 +20,7 @@ Mechanics [ipynb](https://github.com/m12sl/dl-hse-2020/blob/master/02-mechanics/
 Common Things ([slides](https://docs.google.com/presentation/d/1Pn_yQ_4LGRooyIMb7-BcAcU9K7h7c9smhGUaSF-bNPY/edit?usp=sharing), [ipynb](https://github.com/m12sl/dl-hse-2020/blob/master/03-common-things/vanishing%20gradients%20and%20cnn.ipynb))
 
 
-Hyperparams ([ipynb](https://github.com/m12sl/dl-hse-2020/blob/master/04-hyperparams/optimization.ipynb))
+Hyperparams ([slides](https://docs.google.com/presentation/d/1PWPQwKSWG_e3lL4s0hwWQv2-nVZOszFMu7diW3UAit8/edit?usp=sharing) [ipynb](https://github.com/m12sl/dl-hse-2020/blob/master/04-hyperparams/optimization.ipynb))
+
+
+NLP ([slides](https://docs.google.com/presentation/d/1NG6Lp8DHtcYvw2rFwFowyBxT501ZlIbDW0Xd_j7O_q4/edit?usp=sharing) [ipynb](https://github.com/m12sl/dl-hse-2020/blob/master/05-nlp-part1/NMT.ipynb))
