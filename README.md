@@ -24,3 +24,5 @@ Hyperparams ([slides](https://docs.google.com/presentation/d/1PWPQwKSWG_e3lL4s0h
 
 
 NLP ([slides](https://docs.google.com/presentation/d/1NG6Lp8DHtcYvw2rFwFowyBxT501ZlIbDW0Xd_j7O_q4/edit?usp=sharing) [ipynb](https://github.com/m12sl/dl-hse-2020/blob/master/05-nlp-part1/NMT.ipynb))
+
+AdversarialX ([lesson](https://github.com/m12sl/dl-hse-2020/blob/master/06-adversarialx/adversarialx.ipynb))
